@@ -261,7 +261,7 @@ streamlit run frontend/app.py
 
 # 👩‍💻 Developer
 
-**Suvasini **
+**Suvasini**
 
 Computer Science Engineering
 
